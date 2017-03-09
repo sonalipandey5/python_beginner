@@ -21,7 +21,5 @@ def draw_art():
     for i in range(1,73):
         draw_diamond(brad)
         brad.right(5)
-   
-draw_art()
-
+draw art()
     

@@ -6,7 +6,6 @@ def draw_square(age):
             age.forward(100)
     #turn right
             age.right(90)
-
 def draw_art():
     #add a window
     window=turtle.Screen()

@@ -9,5 +9,4 @@ message = client.messages.create(
     body="Hello from Python",
     to="+919003715607",    # Replace with your phone number
     from_="+12569800360") # Replace with your Twilio number
-
 print(message.sid)

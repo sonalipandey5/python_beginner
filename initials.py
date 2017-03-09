@@ -27,8 +27,6 @@ def initials(sp):
 
 
 
-
-
 def art():
     window=turtle.Screen()
     window.bgcolor("light blue")
